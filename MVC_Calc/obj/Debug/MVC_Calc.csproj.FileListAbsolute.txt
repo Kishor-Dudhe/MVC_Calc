@@ -1,0 +1,6 @@
+c:\users\kishor.dudhe\documents\visual studio 2013\Projects\MVC_Calc\MVC_Calc\bin\Debug\MVC_Calc.exe.config
+c:\users\kishor.dudhe\documents\visual studio 2013\Projects\MVC_Calc\MVC_Calc\bin\Debug\MVC_Calc.exe
+c:\users\kishor.dudhe\documents\visual studio 2013\Projects\MVC_Calc\MVC_Calc\bin\Debug\MVC_Calc.pdb
+c:\users\kishor.dudhe\documents\visual studio 2013\Projects\MVC_Calc\MVC_Calc\obj\Debug\MVC_Calc.exe
+c:\users\kishor.dudhe\documents\visual studio 2013\Projects\MVC_Calc\MVC_Calc\obj\Debug\MVC_Calc.pdb
+c:\users\kishor.dudhe\documents\visual studio 2013\Projects\MVC_Calc\MVC_Calc\obj\Debug\MVC_Calc.csprojResolveAssemblyReference.cache
