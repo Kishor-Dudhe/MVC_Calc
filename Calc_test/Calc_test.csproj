@@ -46,6 +46,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Add_Function_Test.cs" />
+    <Compile Include="DivisionTest.cs" />
+    <Compile Include="Multiplication_Test.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Subtraction_Function_Test.cs" />
   </ItemGroup>

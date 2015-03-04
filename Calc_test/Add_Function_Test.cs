@@ -16,7 +16,7 @@ namespace Calc_test
        {
            TestClass t = new TestClass();
            t.AddTwoPositiveNumber();
-           t.AddOneNumberOneText();
+           t.AddOneNumberOneCharacter();
            t.AddOneNegativeOnePositive();
            t.AddTwoNegativeNumber();
            t.AddTwoCharacter();
@@ -36,13 +36,13 @@ namespace Calc_test
            }
            else
            {
-               Console.WriteLine("test failed");
+               Console.WriteLine(" Addition of two positive Number failed");
                
            }
            Console.ReadLine();
        }
 
-       public void AddOneNumberOneText()
+       public void AddOneNumberOneCharacter()
        {
            
            int result = c.sum('a', 10);
@@ -54,7 +54,7 @@ namespace Calc_test
            }
            else
            {
-               Console.WriteLine("test failed");
+               Console.WriteLine("Addition of one Number and one character failed");
 
            }
            Console.ReadLine();
@@ -72,7 +72,7 @@ namespace Calc_test
            }
            else
            {
-               Console.WriteLine("test failed");
+               Console.WriteLine("Addition of one positive one negative Number failed");
 
            }
            Console.ReadLine();
@@ -90,7 +90,7 @@ namespace Calc_test
            }
            else
            {
-               Console.WriteLine("test failed");
+               Console.WriteLine("Addition of two Negative Number failed");
 
            }
            Console.ReadLine();
@@ -107,7 +107,7 @@ namespace Calc_test
            }
            else
            {
-               Console.WriteLine("test failed");
+               Console.WriteLine("Addition of two character Number failed");
 
            }
            Console.ReadLine();
